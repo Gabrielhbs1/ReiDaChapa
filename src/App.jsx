@@ -1,11 +1,14 @@
 import './App.css';
-import Header from "../footer/footer.jsx";
-import Footer from "../header/header.jsx";
+import Header from "./header/header";
+import Footer from "./footer/footer";
+import Navbar from "./navbar/navbar;"
 
 function App() {
   return (
     <>
     <Header />
+
+    <Navbar />
 
     <main>
 
@@ -13,7 +16,7 @@ function App() {
     </main>
 
     <Footer />
-    <h1>Teste</h1>
+    
     </>
   );
 }
