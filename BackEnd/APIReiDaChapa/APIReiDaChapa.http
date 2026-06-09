@@ -1,0 +1,6 @@
+@APIReiDaChapa_HostAddress = http://localhost:5133
+
+GET {{APIReiDaChapa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
