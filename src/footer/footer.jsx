@@ -3,7 +3,11 @@ import "./footer.css";
 
 function Footer () {
     return(
-        <h1>TESTE</h1>
+        <footer>
+             <div className="footer-conteudo">
+                <p>© 2026 Sua Lanchonete. Todos os direitos reservados.</p>
+            </div>
+        </footer>
 
 
    );

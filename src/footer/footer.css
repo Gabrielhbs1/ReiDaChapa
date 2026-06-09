@@ -1,11 +1,19 @@
-*
-{
-    margin: 0;
-    padding: 0;
+footer {
+    width: 100%;
+    background-color: #c62828;
+    color: white;
+    padding: 20px 0;
+    margin-top: auto;
 }
-Footer
-{
-    width: 20vh;
-    height: 20%;
-    background-color: red;
+
+.footer-conteudo {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.footer-conteudo p {
+    margin: 0;
+    font-size: 14px;
+    letter-spacing: 0.5px;
 }
