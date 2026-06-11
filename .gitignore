@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+/BackEnd/APIReiDaChapa/bin/
+/BackEnd/APIReiDaChapa/bin/debug
+/BackEnd/APIReiDaChapa/obj/
+/BackEnd/APIReiDaChapa/obj/debug

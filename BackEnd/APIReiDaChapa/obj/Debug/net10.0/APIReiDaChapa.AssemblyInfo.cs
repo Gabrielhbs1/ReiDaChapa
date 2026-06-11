@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIReiDaChapa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5783424a985cf5809d835759a9774ebfc9bb2d26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25f2899b7b13deedbf6832a2f767edffb0233a70")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIReiDaChapa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIReiDaChapa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
